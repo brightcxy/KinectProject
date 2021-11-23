@@ -61,3 +61,9 @@ Also I add velocity on every boxes to make them recover slowly
 * Color adjustment
 * To put the project on the large screen, I add **int width** and **int height** to make it adjustable
 * Also, I make color changes to make it looks more comfortable
+
+## Thanks to
+
+* [Tutorial by Daniel Shiffman](https://shiffman.net/p5/kinect/)
+* [Kinect PV2 Library by Thomas Lengeling](https://github.com/ThomasLengeling/KinectPV2)
+* [Minecraft Movable God Ball by Coder Dude](https://openprocessing.org/sketch/534588)
