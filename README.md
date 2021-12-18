@@ -26,6 +26,14 @@ Environment:
 
 ## Iteration Process
 
+
+Online communicate with tutor  Date: 2021.7.20  
+Propose the topic with the tutor, establish the research direction, and make a proposal
+Supervisor feedback: the proposal lacks critical thinking and a level of intellectual inquiry :think about how this could be a more meaningful experience.  
+ * Midify the proposal
+ * Create the research list
+ * watch totorials related to Kinect
+
 [V1: Low resolution depth image](Iterations/CXYPC/CXYPC.pde)
 
 In order to fit most low-powered computers, my first thought was to reduce the amount of computation
